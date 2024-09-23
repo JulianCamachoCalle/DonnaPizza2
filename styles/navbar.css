@@ -1,0 +1,16 @@
+/* Navbar */
+.navbar {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.39) 68%, rgba(102, 102, 102, 0) 100%);
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: white;
+    padding: 5px 20px !important;
+    font-family: "Montserrat";
+    font-weight: 200;
+}
+
+.active {
+    color: white !important;
+    font-weight: 600 !important;
+}
