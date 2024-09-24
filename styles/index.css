@@ -14,14 +14,14 @@
 
  /* Fondo de inicio y medidas */
  #container-principal {
-     background-image: url("img/fondo-principal.jpg");
+     background-image: url("../img/fondo-principal.jpg");
      background-repeat: no-repeat;
      background-size: cover;
  }
 
  /* Apartado de Platos */
  #container-info {
-     background-image: url("img/fondo-secundario.jpg");
+     background-image: url("../img/fondo-secundario.jpg");
      background-repeat: no-repeat;
      background-size: cover;
      width: 100%;
@@ -92,7 +92,7 @@
 
  /* Contactanos */
  #container-contacto {
-     background-image: url("img/fondo-contacto.jpg");
+     background-image: url("../img/fondo-contacto.jpg");
      background-repeat: no-repeat;
      background-size: cover;
      padding: 8.625rem 1.25rem;
