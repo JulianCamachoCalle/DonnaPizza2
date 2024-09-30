@@ -338,7 +338,9 @@ MOCKUP
 
 ---
 ## Diagrama de procesos
+
 *Figura 19*
+
 Diagrama de procesos
 
 ![](imagenes/diagrama%20de%20procesos.png)
