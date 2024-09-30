@@ -353,7 +353,7 @@ Estructura de capas
 
 ![](imagenes/Estructura%20de%20capas.jpg)
 
-::: mermaid
+``` mermaid
 stateDiagram-v2
 
 Capa_de_Presentación --> Capa_de_servicios_Distribuidos
@@ -365,7 +365,8 @@ Capa_de_Aplicación -->Capa_de_infraestructura_transversal
 Capa_de_Dominio -->Capa_de_infraestructura_de_persistencia_de_datos
 Capa_de_infraestructura_de_persistencia_de_datos-->Capa_de_Dominio 
 Capa_de_infraestructura_de_persistencia_de_datos -->*Base_de_datos*
-:::
+
+``` 
 
 
 ## Diagrama entidad relacion
@@ -373,7 +374,7 @@ Capa_de_infraestructura_de_persistencia_de_datos -->*Base_de_datos*
 
 Diagrama entidad relacion
 
-:::mermaid
+``` mermaid
 erDiagram
     Cliente {
         id_cliente int(11)
@@ -475,8 +476,7 @@ erDiagram
 
     }
     ingredientes||..|{ingredientes_pizza: tiene
-:::
-
+``` 
 ---
 
 ## Modelo conceptual
@@ -487,7 +487,7 @@ Modelo conceptual
 
 ![](imagenes/modelo%20conceptual.png)
 
-:::mermaid
+``` mermaid
 erDiagram
     Cliente {
     }
@@ -522,7 +522,7 @@ erDiagram
 
     ingredientes
     ingredientes||..|{ingredientes_pizza: tiene
-:::
+``` 
 ---
 
 ## Modelo físico
@@ -530,7 +530,7 @@ erDiagram
 
 Modelo fisico
 
-:::mermaid
+``` mermaid
 erDiagram
     Cliente {
         id_cliente int(11)
@@ -632,7 +632,7 @@ erDiagram
 
     }
     ingredientes||..|{ingredientes_pizza: tiene
-:::
+``` 
 ---
 
 ## Diagrama de clases
@@ -640,7 +640,7 @@ erDiagram
 
 diagrama de clases
 
-:::mermaid
+``` mermaid
 
     classDiagram 
     class Cliente
@@ -757,7 +757,7 @@ diagrama de clases
     Ingrediente: -consultarPizza() listPizza
     IngredientePizza <|-- Ingrediente
 
-:::
+``` 
 
 ---
 
@@ -766,7 +766,7 @@ diagrama de clases
 *Figura 25*
 
 Diagrama de Gannt
-:::mermaid
+``` mermaid
 gantt
     section Documentación
 
@@ -801,8 +801,8 @@ gantt
     Informacion de la empresa   :         des4, after des1, 1d
     Parallel 3   :         des5, after des3, 1d
     Parallel 4   :         des6, after des4, 1d
-:::
-
+``` 
+    
 *Figura 26*
 
 Project charter
