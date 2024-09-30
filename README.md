@@ -485,8 +485,6 @@ erDiagram
 
 Modelo conceptual
 
-![](imagenes/modelo%20conceptual.png)
-
 ``` mermaid
 erDiagram
     Cliente {
