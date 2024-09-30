@@ -1,4 +1,4 @@
-![UTP](imagenes\logo.jpg)
+![UTP](imagenes\logo111.jpg)
 # Creación y diseño de una aplicación web para una pizzería
 **Curso Integrador I: Sistemas Software**
 
