@@ -11,7 +11,7 @@
 - Palomino Lugo Walter Jose Miguel  
 - Julian Fernando Camacho Calle  
 
-**Fecha:** 25 de setiembre de 2024
+**Fecha:** 01 de octubre de 2024
 
 ---
 
