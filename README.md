@@ -488,7 +488,7 @@ erDiagram
 Modelo conceptual
 
 ``` mermaid
-erDiagram LR
+erDiagram 
     Cliente {
     }
 
