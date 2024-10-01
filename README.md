@@ -134,7 +134,7 @@ Finalmente, la experiencia de compra se ve mermada por la falta de herramientas 
 
  
 
-                      “El desarrollo de sofisticados sistemas de control de procesos, para responder a estándares globales de inocuidad y calidad, ha sido clave para la transformación tecnológica de la industria agroalimentaria en los últimos años” (Mercado, Córdova, & Testa, 2022, p. 182). 
+            “El desarrollo de sofisticados sistemas de control de procesos, para responder a estándares globales de inocuidad y calidad, ha sido clave para la transformación tecnológica de la industria agroalimentaria en los últimos años” (Mercado, Córdova, & Testa, 2022, p. 182). 
 
   
 
