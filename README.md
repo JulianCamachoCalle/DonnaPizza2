@@ -41,7 +41,8 @@
 12. [Modelo físico](#modelo-físico)
 13. [Diagrama de clases](#diagrama-de-clases)
 14. [Anexos](#anexos)
-15. [Referencias bibliograficas](#referencias-bibliográficas)
+15. [BPM]()
+16. [Referencias bibliograficas](#referencias-bibliográficas)
    
 
 ---
@@ -807,7 +808,133 @@ gantt
 
 Project charter
 
-![](imagenes/project%20charter.png)||
+![](imagenes/project%20charter.png)
+
+## BPM
+
+![](imagenes/project%20charter.png)
+
+### **Definición y Documentación de Procesos**
+
+1.    Ingresa Datos para el Registro: 
+
+Proceso: El usuario introduce sus datos para registrarse en el sistema. 
+
+Documentación: Define claramente los pasos y los roles involucrados en este proceso. 
+
+2.    Inicia Sesión: 
+
+Proceso: El usuario introduce sus credenciales y el sistema valida el acceso. 
+
+Documentación: Define claramente los pasos y los roles involucrados en este proceso. 
+
+3.    Selecciona Productos: 
+
+Proceso: El usuario navega por el menú y selecciona los productos deseados. 
+
+Documentación: Detalla cómo se presentan los productos y cómo se realiza la selección. 
+
+4.    Recibe Productos Seleccionados: 
+
+Proceso: El sistema confirma la selección de productos del usuario. 
+
+Documentación: Especifica los pasos para confirmar la solicitud y cómo se maneja la aceptación del pedido. 
+
+5.    Ingresa Información del Método de Pago: 
+
+Proceso: El usuario introduce la información necesaria para el pago. 
+
+Documentación: Detalla los datos requeridos y cómo se procesan. 
+
+6.    Selecciona Modo de Pago: 
+
+Proceso: El cliente elige el método de pago. 
+
+Documentación: Detalla las opciones de pago disponibles y el proceso para cada una. 
+
+7.    Pago Realizado: 
+
+Proceso: El sistema verifica si el pago se ha realizado. 
+
+Documentación: Define las condiciones para la aceptación del pago y las acciones a seguir si no es aceptado. 
+
+8.    Desea Factura: 
+
+Proceso: El sistema pregunta al cliente si desea una factura. 
+
+Documentación: Especifica cómo se maneja la solicitud de factura y las opciones disponibles. 
+
+9.    Genera Factura/Boleta: 
+
+Proceso: Se genera la factura o boleta según la elección del cliente. 
+
+Documentación: Especifica cómo se genera y se entrega la factura o boleta. 
+
+10.    Confirmación del Pago Pedido: 
+
+Proceso: El sistema confirma que el pedido ha sido pagado. 
+
+Documentación: Detalla los pasos para confirmar el pago y cómo se notifica al cliente. 
+
+11.    Recibe Pedido Cancelado o Pagado: 
+
+Proceso: El sistema actualiza el estado del pedido según el pago. 
+
+Documentación: Describe cómo se maneja la actualización del estado del pedido. 
+
+12.    Entrega Pedido a Usuario: 
+
+Proceso: El pedido es entregado al cliente. 
+
+Documentación: Define cómo se realiza la entrega y cómo se verifica la recepción. 
+
+13.    Usuario Recibe el Pedido: 
+
+Proceso: El cliente recibe el pedido. 
+
+Documentación: Especifica los pasos finales de la entrega y la confirmación de recepción. 
+
+14.    Acción Conforme con el Pedido: 
+
+Proceso: El cliente verifica si está conforme con el pedido. 
+
+Documentación: Si el cliente no está conforme, se genera un informe. Si está conforme, se termina el proceso. 
+
+### **Operación**
+
+1.    Recopilación de Datos: 
+
+Utiliza herramientas de software para recopilar datos sobre el rendimiento de los procesos. Esto puede incluir tiempos de preparación, tiempos de entrega, y tasas de error. 
+
+2.    Análisis de Tendencias: 
+
+Analiza los datos recopilados para identificar tendencias y posibles áreas de mejora. Por ejemplo, si los tiempos de entrega son consistentemente altos en ciertos días, podrías ajustar la programación del personal. 
+
+3.    Ajustes Continuos: 
+
+Realiza ajustes en los procesos basados en los datos y el feedback recibido. Esto puede incluir la reconfiguración de flujos de trabajo o la actualización de herramientas y tecnologías utilizadas. 
+
+4.    Anticipación de Errores: 
+
+Utiliza el análisis predictivo para anticipar y prevenir errores antes de que ocurran. Por ejemplo, si se prevé un aumento en la demanda, asegúrate de tener suficiente personal y stock. 
+
+### **Mejora Progresiva e Ininterrumpida**
+
+1.    Ciclo de Mejora Continua: 
+
+Establece un ciclo de revisión periódica de los procesos para identificar nuevas oportunidades de mejora. Esto puede ser trimestral o semestral. 
+
+2.    Innovación y Actualización: 
+
+Mantente al tanto de las nuevas tecnologías y prácticas en la industria de la restauración que puedan mejorar tus procesos. Implementa estas innovaciones de manera gradual. 
+
+3.    Feedback Constante: 
+
+Fomenta una cultura de feedback constante entre los empleados y clientes. Utiliza encuestas y reuniones regulares para recoger sus opiniones y sugerencias. 
+
+4.    Implementación de Mejoras: 
+
+Basado en el feedback, implementa mejoras incrementales que mantengan los procesos eficientes y efectivos. 
 
 
 ## Referencias bibliográficas
