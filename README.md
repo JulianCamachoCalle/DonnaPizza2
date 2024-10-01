@@ -321,7 +321,7 @@ El WBS detalla las tareas necesarias para desarrollar la aplicación, desde el d
 
 WBS
 
-![](imagenes/wbs.png)
+![](imagenes/wbs11.png)
 
 ---
 
