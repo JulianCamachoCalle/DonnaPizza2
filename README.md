@@ -812,7 +812,7 @@ Project charter
 
 ## BPM
 
-![](imagenes/project%20charter.png)
+![](imagenes/BPM.jpg)
 
 ### **Definición y Documentación de Procesos**
 
