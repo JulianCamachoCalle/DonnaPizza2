@@ -95,7 +95,11 @@ Nuestra misión en Donna Pizza es ofrecer a nuestros clientes una experiencia cu
 Nuestra visión es convertirnos en la pizzería de referencia en el Callao, reconocida por nuestra excelencia en la calidad de nuestros productos y la innovación en el servicio al cliente. Buscamos expandir nuestras operaciones mediante la adopción de tecnologías que mejoren la comodidad y conveniencia para nuestros clientes, mientras mantenemos un compromiso inquebrantable con la calidad y la satisfacción del cliente.
 
 ### Entorno
-La Pizzería Donna Pizza opera en un entorno competitivo donde la calidad de los productos y la experiencia del cliente son clave para el éxito. La pizzería se enfrenta a la competencia de otras pizzerías locales y cadenas de restaurantes que ofrecen servicios similares. El entorno de mercado está caracterizado por una demanda creciente de conveniencia, con clientes que valoran opciones de pedidos en línea y entrega a domicilio.
+La Pizzería Donna Pizza opera en un entorno competitivo donde la calidad de los productos y la experiencia del cliente son clave para el éxito. La pizzería se enfrenta a la competencia de otras pizzerías locales y cadenas de restaurantes que ofrecen servicios similares. 
+
+    “El uso de plataformas de entrega de comida en línea ha aumentado durante la pandemia, lo que ha llevado a un mayor conocimiento y uso de estas tecnologías por parte de los consumidores” (Williams & Bangun, 2022, p. 82). 
+    
+El entorno de mercado está caracterizado por una demanda creciente de conveniencia, con clientes que valoran opciones de pedidos en línea y entrega a domicilio.
 
 ### Estrategias
 - **Calidad del Producto:** Mantener un enfoque constante en la calidad de nuestros ingredientes y en la preparación artesanal de nuestras pizzas para asegurar una experiencia culinaria superior.
