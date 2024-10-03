@@ -98,13 +98,13 @@ Nuestra visión es convertirnos en la pizzería de referencia en el Callao, reco
 La Pizzería Donna Pizza opera en un entorno competitivo donde la calidad de los productos y la experiencia del cliente son clave para el éxito. La pizzería se enfrenta a la competencia de otras pizzerías locales y cadenas de restaurantes que ofrecen servicios similares. El entorno de mercado está caracterizado por una demanda creciente de conveniencia, con clientes que valoran opciones de pedidos en línea y entrega a domicilio.
 
 ### Estrategias
-- **Calidad del Producto:** Mantener un enfoque constante en la calidad de nuestros ingredientes y en la preparación artesanal de nuestras pizzas.
+- **Calidad del Producto:** Mantener un enfoque constante en la calidad de nuestros ingredientes y en la preparación artesanal de nuestras pizzas para asegurar una experiencia culinaria superior.
+  
+        “La mejora de la usabilidad del sitio web y la calidad del menú puede aumentar la satisfacción del cliente, facilitando interacciones más fluidas y positivas” (MDPI, 2023, p. 4). 
 - **Innovación en el servicio:** Implementar una aplicación web para facilitar los pedidos en línea, reservas y seguimiento de entregas.
 - **Marketing Local:** Fortalecer nuestra presencia en la comunidad mediante promociones locales, eventos y colaboraciones.
 - **Atención al Cliente:** Capacitar a nuestro personal para ofrecer un servicio excepcional.
 - **Optimización de Operaciones:** Optimización de Operaciones: Utilizar tecnologías y herramientas de gestión para mejorar la eficiencia operativa, controlar los inventarios y analizar el rendimiento de ventas. 
-
-           “Los sistemas de gestión de la calidad como la ISO 9001 permiten no solo garantizar la calidad de los productos, sino también mejorar continuamente los procesos operativos de las empresas agroalimentarias” (Solleiro & Pérez, 2000, p. 40). 
 
 ### Planes de la empresa
 - **Desarrollo Tecnológico:** Lanzar una aplicación web que permita realizar pedidos en línea, hacer reservas y seguir el estado de entregas.
@@ -115,29 +115,23 @@ La Pizzería Donna Pizza opera en un entorno competitivo donde la calidad de los
 ---
 
 ## Descripción del problema
-La pizzería se encuentra en una encrucijada, enfrentando desafíos significativos que afectan tanto la satisfacción del cliente como la eficiencia operativa. La ausencia de una aplicación web que centralice las interacciones con los clientes limita la conveniencia; estos deben recurrir a métodos tradicionales, como llamadas telefónicas y visitas presenciales, lo que no solo es engorroso, sino que causa frustraciones que pueden perder clientes.  
+La pizzería se encuentra en una encrucijada, enfrentando desafíos significativos que afectan tanto la satisfacción del cliente como la eficiencia operativa.  
+
+    “El comportamiento del consumidor hacia las aplicaciones de comida ha cambiado drásticamente, con un aumento en la intención de reutilización debido a la conveniencia y rapidez de los servicios” (Erdem et al., 2021, p. 1). 
 
   
-
 Además, la gestión interna de pedidos, inventarios y reservas se torna complicada y propensa a errores, lo que afecta directamente el flujo de trabajo del personal y la calidad del servicio. Sin un sistema que automatice y organice estos procesos, la pizzería corre el riesgo de caer en la ineficiencia, lo que puede resultar en largas esperas y confusiones en las órdenes. 
 
- 
-
-            “La adopción de nuevas tecnologías permite a los productores agroalimentarios mejorar significativamente la calidad y cantidad de sus productos, a la vez que optimizan los procesos productivos” (Jasso, 1999, p. 120). 
-
-  
 
 Otro aspecto crítico es el servicio de entrega. En un mundo donde la inmediatez es clave, la falta de una plataforma que permita a los clientes realizar pedidos en línea y rastrear sus entregas genera un alto potencial de errores y retrasos. Esto no solo perjudica la experiencia del cliente, sino que también afecta la reputación del negocio, ya que las expectativas no cumplidas pueden llevar a comentarios negativos y una disminución en la lealtad del cliente. 
 
   
 
-Finalmente, la experiencia de compra se ve mermada por la falta de herramientas que ayuden a los clientes a decidir qué platillo elegir. Sin opciones de personalización claras y una presentación atractiva de los productos, los clientes pueden sentirse abrumados o desinteresados, lo que aumenta el riesgo de que busquen alternativas en la competencia. Una aplicación web bien diseñada podría transformar esta experiencia, ofreciendo descripciones detalladas, opciones de personalización y sugerencias basadas en preferencias previas. 
+Finalmente, la experiencia de compra se ve mermada por la falta de herramientas que ayuden a los clientes a decidir qué platillo elegir.  
 
- 
+    “Las capacidades digitales dinámicas y la orientación al cliente digital permiten a los restaurantes crear un valor dinámico para el cliente, mejorando la experiencia a través de plataformas digitales y revisiones en línea” (Mabrouk et al., 2023, p. 5690) 
 
-            “El desarrollo de sofisticados sistemas de control de procesos, para responder a estándares globales de inocuidad y calidad, ha sido clave para la transformación tecnológica de la industria agroalimentaria en los últimos años” (Mercado, Córdova, & Testa, 2022, p. 182). 
-
-  
+Sin opciones de personalización claras y una presentación atractiva de los productos, los clientes pueden sentirse abrumados o desinteresados, lo que aumenta el riesgo de que busquen alternativas en la competencia. Una aplicación web bien diseñada podría transformar esta experiencia, ofreciendo descripciones detalladas, opciones de personalización y sugerencias basadas en preferencias previas. 
 
 En definitiva, desarrollar una plataforma integral que aborde estos desafíos no solo es una necesidad, sino la clave para llevar la pizzería al siguiente nivel, mejorando la eficiencia operativa y creando una experiencia de cliente excepcional y memorable. 
 
@@ -939,8 +933,8 @@ Basado en el feedback, implementa mejoras incrementales que mantengan los proces
 
 ## Referencias bibliográficas
 
-Mercado, A., Córdova, K., & Testa, P. (2022). Tendencias organizativas y tecnológicas de la industria agroalimentaria global y su manifestación en Venezuela. Revista Venezolana de Nutrición, 32(2), 177-194. https://www.redalyc.org/pdf/1992/199216580007.pdf
+Mabrouk, S., Saleh, M. I., Salem, A. E., & Elshawarbi, N. N. (2023). Enhancing digital presence for maximizing customer value in fast-food restaurants. Sustainability, 15(7), 5690. https://doi.org/10.3390/su15075690 
 
-Jasso, J. (1999). Innovaciones tecnológicas en la agricultura empresarial mexicana: Una aproximación teórica. Revista Mexicana de Agronegocios, 4(2), 112-126. https://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1315-85972006000100005
+MDPI. (2023). Virtual restaurants: Customer experience keeps their businesses alive. Sustainability, 13(5), 1-5. https://www.mdpi.com 
 
-Solleiro, J., & Pérez, M. (2000). Sistemas de gestión de la calidad en el sector agroalimentario. Revista Iberoamericana de Sistemas de Calidad, 10(1), 33-45. https://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1316-03542004000100007
+Williams, A., & Bangun, C. S. (2022). Artificial intelligence system framework in improving the competence of Indonesian human resources. International Journal of Cyber and IT Service Management, 2(1), 82-87. https://doi.org/10.34306/IJCITSM.V2I1.91 
