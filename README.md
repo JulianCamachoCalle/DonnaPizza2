@@ -104,7 +104,7 @@ El entorno de mercado está caracterizado por una demanda creciente de convenien
 ### Estrategias
 - **Calidad del Producto:** Mantener un enfoque constante en la calidad de nuestros ingredientes y en la preparación artesanal de nuestras pizzas para asegurar una experiencia culinaria superior.
   
-        “La mejora de la usabilidad del sitio web y la calidad del menú puede aumentar la satisfacción del cliente, facilitando interacciones más fluidas y positivas” (MDPI, 2023, p. 4). 
+      “La mejora de la usabilidad del sitio web y la calidad del menú puede aumentar la satisfacción del cliente, facilitando interacciones más fluidas y positivas” (MDPI, 2023, p. 4). 
 - **Innovación en el servicio:** Implementar una aplicación web para facilitar los pedidos en línea, reservas y seguimiento de entregas.
 - **Marketing Local:** Fortalecer nuestra presencia en la comunidad mediante promociones locales, eventos y colaboraciones.
 - **Atención al Cliente:** Capacitar a nuestro personal para ofrecer un servicio excepcional.
