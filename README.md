@@ -767,39 +767,32 @@ diagrama de clases
 Diagrama de Gannt
 ``` mermaid
 gantt
-    section Documentación
+    section Phase One
 
-    En curso :active,    des1, 2024-07-06, 2024-08-01
-    Informacion de la empresa        :active,   des2, 2024-07-08, 9d
-    Diagramas   :active,         des3, after des1, 10d
-    Mision y Vision   :       des4, after des1, 2d
-    Requerimientos  :         des5, after des3, 4d
-    PPT   :         des6, after des4, 4d
-    Markdown :      des7, after des5, 3d
+    Quality Assurance Plan           :active,    task1, 2024-08-10, 14d
+    Project Plan                     :active,    task2, 2024-08-10, 14d
+    Plan Review                      :active,    task3, 2024-08-24, 14d
 
-    section Frontend
+section Phase Two
 
-    Prototipado de Landing Page        :active,  des2, 2024-07-07, 4d
-    asdasda :active,         des3, after des1, 14d
-    dasd :active,         des4, after des1, 6d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
+    Draft Requirement                :active,    task4, 2024-08-24, 14d
+    Capacity Planning                :active,    task5, 2024-09-07, 14d
+    Project Test Plan                :active,    task6, 2024-09-21, 14d
+    Acceptance Test Plan             :active,    task7, 2024-10-05, 14d
 
-    section Backend
+section Phase Three
 
-    Definicion de tipo de Backend        :active,  des2, 2024-07-08, 3d
-    Levatamineto del Backend  :         des3, after des1, 1d
-    Conexion con base de datos  :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
+    Final Requirements Specifications:active,    task8, 2024-10-05, 14d
+    Phase Review and Approval        :active,    task9, 2024-10-19, 14d
+    Draft Design Specifications      :active,    task10, 2024-11-02, 14d
+    Configuration Management Plan    :active,    task11, 2024-11-16, 14d
+    Architecture Design Plan         :active,    task12, 2024-11-30, 14d
+    Define Interface Requirements    :active,    task13, 2024-12-14, 14d
+    Shared Component Design          :          task14, after task13, 14d
+    Integration Test Plan            :          task15, after task14, 14d
+    Final Review                     :          task16, after task15, 14d
+    Project Closure                  :          task17, after task16, 14d
 
-    section Base de datos
-
-    Analisis de los requisitos        :active,  des2, 2024-07-08, 15d
-    identificar sus entidades y recursos    :         des3, after des1, 5d
-    Informacion de la empresa   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
 ``` 
     
 *Figura 26*
