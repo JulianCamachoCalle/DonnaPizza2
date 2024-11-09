@@ -767,31 +767,31 @@ diagrama de clases
 Diagrama de Gannt
 ``` mermaid
 gantt
-    section Phase One
+    section Fase Uno
 
-    Quality Assurance Plan           :active,    task1, 2024-08-10, 14d
-    Project Plan                     :active,    task2, 2024-08-10, 14d
-    Plan Review                      :active,    task3, 2024-08-24, 14d
+    Plan de Aseguramiento de Calidad :active,    tarea1, 2024-08-10, 14d
+    Plan del Proyecto                :active,    tarea2, 2024-08-10, 14d
+    Revisión del Plan                :active,    tarea3, 2024-08-24, 14d
 
-section Phase Two
+section Fase Dos
 
-    Draft Requirement                :active,    task4, 2024-08-24, 14d
-    Capacity Planning                :active,    task5, 2024-09-07, 14d
-    Project Test Plan                :active,    task6, 2024-09-21, 14d
-    Acceptance Test Plan             :active,    task7, 2024-10-05, 14d
+    Requerimientos Iniciales         :active,    tarea4, 2024-08-24, 14d
+    Planificación de Capacidad       :active,    tarea5, 2024-09-07, 14d
+    Plan de Pruebas del Proyecto     :active,    tarea6, 2024-09-21, 14d
+    Plan de Pruebas de Aceptación    :active,    tarea7, 2024-10-05, 14d
 
-section Phase Three
+section Fase Tres
 
-    Final Requirements Specifications:active,    task8, 2024-10-05, 14d
-    Phase Review and Approval        :active,    task9, 2024-10-19, 14d
-    Draft Design Specifications      :active,    task10, 2024-11-02, 14d
-    Configuration Management Plan    :active,    task11, 2024-11-16, 14d
-    Architecture Design Plan         :active,    task12, 2024-11-30, 14d
-    Define Interface Requirements    :active,    task13, 2024-12-14, 14d
-    Shared Component Design          :          task14, after task13, 14d
-    Integration Test Plan            :          task15, after task14, 14d
-    Final Review                     :          task16, after task15, 14d
-    Project Closure                  :          task17, after task16, 14d
+    Especificaciones Finales de Requisitos :active, tarea8, 2024-10-05, 14d
+    Revisión y Aprobación de Fase          :active, tarea9, 2024-10-19, 14d
+    Especificaciones del Diseño            :active, tarea10, 2024-11-02, 14d
+    Plan de Gestión de Configuración       :active, tarea11, 2024-11-16, 14d
+    Plan de Diseño de Arquitectura         :active, tarea12, 2024-11-30, 14d
+    Definir Requisitos de Interfaz         :active, tarea13, 2024-12-14, 14d
+    Diseño de Componentes Compartidos      :         tarea14, after tarea13, 14d
+    Plan de Pruebas de Integración         :         tarea15, after tarea14, 14d
+    Revisión Final                         :         tarea16, after tarea15, 14d
+    Cierre del Proyecto                    :         tarea17, after tarea16, 14d
 
 ``` 
     
